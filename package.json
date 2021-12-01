@@ -1,0 +1,23 @@
+{
+  "name": "bookmark-landing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build:tailwinds": "tailwind build -i src/style.css -o public/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fpicco/bookmark-landing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fpicco/bookmark-landing/issues"
+  },
+  "homepage": "https://github.com/fpicco/bookmark-landing#readme",
+  "dependencies": {
+    "tailwindcss": "^2.2.19"
+  }
+}
